@@ -36,7 +36,9 @@
 
 ## Demo
 
-App: <https://music-and-mental-health-c2qr2xvmntyl8zfy6v5hfm.streamlit.app>  
+App: <a href = "https://music-and-mental-health-c2qr2xvmntyl8zfy6v5hfm.streamlit.app" target = "_blank" rel = "noopener noreferrer">
+       Open the Streamlit app 
+     </a>  
 <br>
 Video/GIF demo: 
 https://github.com/user-attachments/assets/c0a3c1cc-ce74-4c85-9e7d-2e4387f8d32a
