@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/c90d580d-f516-4080-99da-6bd1cff1c8b8
 # Music & Mental Health
 
 *Explored the relationship between music genres and mental health conditions such as depression, insomnia, and OCD. Applied data cleaning, exploratory data analysis, and Random Forest machine learning techniques to predict how different music genres affect mental health symptoms. This project was developed as part of AI4ALL Ignite, focusing on ethical AI and data-driven mental health insights.*
@@ -5,7 +7,7 @@
 
 ## Problem Statement <!--- do not change this line -->
 
-*Mental health is a critical global issue, and music therapy shows promise in improving emotional and cognitive well-being. However, little is known about how specific music genres impact different mental-health conditions. Understanding these effects can inform personalized therapeutic interventions, improving quality of life for those affected. Our project aims to uncover these connections using real-world survey data, while addressing biases inherent in the dataset.
+*Mental health is a critical global issue, and music therapy shows promise in improving emotional and cognitive well-being. However, little is known about how specific music genres impact different mental-health conditions. Understanding these effects can inform personalized therapeutic interventions, improving quality of life for those affected. Our project aims to uncover these connections using real-world survey data, while addressing biases inherent in the dataset.*
 
 ## Key Results <!--- do not change this line -->
 
@@ -32,6 +34,13 @@
 - *scikit-learn (Random Forest)*
 - *matplotlib /seaborn (for visualizations)*
 
+## Demo
+
+App: <https://music-and-mental-health-c2qr2xvmntyl8zfy6v5hfm.streamlit.app>  
+Video/GIF demo: 
+https://github.com/user-attachments/assets/28943779-cf08-46a4-9b90-22e1528edf33
+Screenshot:  
+![screenshot]<img width="778" height="753" alt="Streamlitapp" src="https://github.com/user-attachments/assets/8add2438-9420-4b14-b8a7-d23186bda8fe" />
 
 ## Authors <!--- do not change this line -->
 
