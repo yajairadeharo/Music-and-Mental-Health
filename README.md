@@ -1,5 +1,5 @@
 
-https://github.com/user-attachments/assets/c90d580d-f516-4080-99da-6bd1cff1c8b8
+
 # Music & Mental Health
 
 *Explored the relationship between music genres and mental health conditions such as depression, insomnia, and OCD. Applied data cleaning, exploratory data analysis, and Random Forest machine learning techniques to predict how different music genres affect mental health symptoms. This project was developed as part of AI4ALL Ignite, focusing on ethical AI and data-driven mental health insights.*
@@ -37,10 +37,12 @@ https://github.com/user-attachments/assets/c90d580d-f516-4080-99da-6bd1cff1c8b8
 ## Demo
 
 App: <https://music-and-mental-health-c2qr2xvmntyl8zfy6v5hfm.streamlit.app>  
+<br>
 Video/GIF demo: 
-https://github.com/user-attachments/assets/28943779-cf08-46a4-9b90-22e1528edf33
+<https://github.com/user-attachments/assets/c0a3c1cc-ce74-4c85-9e7d-2e4387f8d32a>
+<br>
 Screenshot:  
-![screenshot]<img width="778" height="753" alt="Streamlitapp" src="https://github.com/user-attachments/assets/8add2438-9420-4b14-b8a7-d23186bda8fe" />
+<img width="778" height="753" alt="Streamlitapp" src="https://github.com/user-attachments/assets/8add2438-9420-4b14-b8a7-d23186bda8fe" />
 
 ## Authors <!--- do not change this line -->
 
