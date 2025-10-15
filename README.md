@@ -39,7 +39,7 @@
 App: <https://music-and-mental-health-c2qr2xvmntyl8zfy6v5hfm.streamlit.app>  
 <br>
 Video/GIF demo: 
-<https://github.com/user-attachments/assets/c0a3c1cc-ce74-4c85-9e7d-2e4387f8d32a>
+https://github.com/user-attachments/assets/c0a3c1cc-ce74-4c85-9e7d-2e4387f8d32a
 <br>
 Screenshot:  
 <img width="778" height="753" alt="Streamlitapp" src="https://github.com/user-attachments/assets/8add2438-9420-4b14-b8a7-d23186bda8fe" />
